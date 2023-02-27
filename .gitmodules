@@ -1,0 +1,6 @@
+[submodule "evoai-backend"]
+	path = evoai-backend
+	url = git@github.com:pablojosecodes/evoai-backend.git
+[submodule "evoai-scripts"]
+	path = evoai-scripts
+	url = git@github.com:pablojosecodes/evoai-scripts.git
